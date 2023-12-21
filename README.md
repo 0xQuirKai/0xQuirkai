@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **khalil.tahraoui1@gmail.com**
 
-- ⚡ Fun fact **Professional code juggler, occasional wizard—my superpower is turning coffee into bug-free lines of code! ☕🧙‍♂️**
+- ⚡ **Professional code juggler, occasional wizard—my superpower is turning coffee into bug-free lines of code! ☕🧙‍♂️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
