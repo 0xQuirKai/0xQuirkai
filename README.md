@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khalil Tahraoui AKA 0xQuirkai </h1>
 <h3 align="center">Transforming Lines of Code into Works of Art 🎨 | Passionate Developer and Code Enthusiast 💻</h3>
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **GO**
 
 - 👨‍💻 All of my projects are available at [https://khaliltahra0ui.netlify.app](https://khaliltahra0ui.netlify.app)
 
