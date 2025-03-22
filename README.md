@@ -1,61 +1,57 @@
-<h1 align="center">Khalil Tahraoui | 0xQuirkai 👋</h1>
-<h3 align="center">Full-Stack Developer | Cloud & Web3 Enthusiast | Turning Code into Solutions 💻</h3>
+<h1 align="center">Khalil Tahraoui | 0xQuirkai</h1>
+<h3 align="center">Full-Stack Developer | Cloud Computing & DevOps Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/khalil-t-19aa42191/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:khalil.tahraoui1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://khaliltahra0ui.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:khalil.tahraouil@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/0xquirkai"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
 
 ### About Me
-I’m a passionate Computer Science student from Algeria, specializing in **full-stack development**, **cloud computing**, and **Web3/blockchain technologies**. I thrive on transforming ideas into functional, scalable solutions—whether it’s crafting seamless frontends with **Vue.js**, building robust backends with **Node.js**, or exploring decentralized systems with **Go**. My mission? Deliver clean, impactful code that solves real-world problems.
+I’m a Computer Systems Engineering student (ENPO, Oran) focused on building reliable, scalable software. My work spans full-stack development, cloud infrastructure, and DevOps practices. I enjoy solving complex problems with clean code and efficient systems, drawing from hands-on experience in network management, database optimization, and cloud deployments.
 
-- 🌱 **Currently Mastering**: Go, Web3 fundamentals (Solidity, Ethereum)
-- 💬 **Ask Me About**: Vue.js, Express.js, MongoDB, backend architecture
-- 📫 **Reach Out**: khalil.tahraoui1@gmail.com
-- 👨‍💻 **Portfolio**: [khaliltahra0ui.netlify.app](https://khaliltahra0ui.netlify.app)
+- **Currently Exploring**: Golang, Cloud IaaS, CI/CD pipelines  
+- **Ask Me About**: React, Next.js, OpenStack, PostgreSQL  
+- **Contact**: khalil.tahraouil@gmail.com  
+- **Portfolio**: [github.com/0xquirkai](https://github.com/0xquirkai)  
 
 ---
 
 ### Skills & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white" alt="Terraform">
+<img src="https://img.shields.io/badge/OpenStack-ED1944?style=flat&logo=openstack&logoColor=white" alt="OpenStack">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+
 </p>
 
 ---
 
 ### Featured Projects
-- **[Decentralized Voting DApp](https://github.com/0xQuirkai/voting-dapp)**  
-  Built a secure voting system using Solidity on Ethereum testnet. Deployed with Remix IDE, reducing fraud risk with cryptographic verification.
 
-- **[Portfolio Site](https://khaliltahra0ui.netlify.app)**  
-  Designed a responsive frontend with Vue.js and hosted on Netlify, showcasing my projects and skills.
+- **[GoFlow](https://github.com/0xquirkai/golang-Ci-Cd-system)**  
+  Built a lightweight CI/CD system in Golang, leveraging Docker and Git for automated, zero-downtime deployments.
 
-- **[API Backend](https://github.com/0xQuirkai/api-backend)**  
-  Developed a RESTful API with Node.js, Express, and MongoDB, handling 100+ requests/sec with optimized queries.
+- **[AlgoVisu](https://github.com/0xquirkai/algoVisu)**  
+  Created an interactive web app with React and Vite to visualize algorithms, optimizing for performance and usability.
 
----
+
 
 ### Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xquirkai&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xquirkai&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xquirkai&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top Languages">
 </p>
 
 ---
 
-### Let’s Collaborate!
-I’m eager to contribute to innovative projects in cloud, Web3, or backend development. Open to internships, open-source contributions, or remote opportunities—let’s build something amazing together!
+### Let’s Connect
+I’m keen to collaborate on projects in software development, cloud computing, or DevOps. Open to opportunities, contributions, or discussions—reach out and let’s create something impactful.
