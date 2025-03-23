@@ -45,11 +45,6 @@
 
 
 
-### Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xquirkai&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top Languages">
-
-</p>
 
 ---
 
