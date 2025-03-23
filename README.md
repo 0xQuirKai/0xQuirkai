@@ -47,6 +47,8 @@
 ### Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xquirkai&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top Languages">
+  <img src="https://github.com/0xquirkai/skyline/blob/main/2023.png" alt="GitHub Skyline">
+
 </p>
 
 ---
