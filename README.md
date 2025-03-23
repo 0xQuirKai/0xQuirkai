@@ -1,6 +1,6 @@
 <h1 align="center">Khalil Tahraoui | 0xQuirkai</h1>
 
-<div align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=32CD32&width=600&lines=Full-Stack+Developer;Cloud+Computing+%26+DevOps;Web3+%26+Blockchain" alt="Typing Animation">
+<div align="right"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=32CD32&width=600&lines=Full-Stack+Developer;Cloud+Computing+%26+DevOps;Web3+%26+Blockchain" alt="Typing Animation">
  </div>
 
 <p align="center">
@@ -11,7 +11,6 @@
 ---
 
 
-- **Currently Exploring**: Cloud IaaS, CI/CD pipelines  
 - **Ask Me About**: React, Next.js,  Golang 
 - **Portfolio**: [khalil's Portfolio](https://khaliltahra0ui.netlify.app/)  
 
