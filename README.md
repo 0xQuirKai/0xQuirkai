@@ -1,5 +1,7 @@
 <h1 align="center">Khalil Tahraoui | 0xQuirkai</h1>
-<h3 align="center">Full-Stack Developer | Cloud Computing & DevOps | web3 & Blockchain </h3>
+
+<div align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=32CD32&width=600&lines=Full-Stack+Developer;Cloud+Computing+%26+DevOps;Web3+%26+Blockchain" alt="Typing Animation">
+ </div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/khalil-t-19aa42191/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -47,7 +49,6 @@
 ### Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xquirkai&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top Languages">
-  <img src="https://github.com/0xquirkai/skyline/blob/main/2023.png" alt="GitHub Skyline">
 
 </p>
 
