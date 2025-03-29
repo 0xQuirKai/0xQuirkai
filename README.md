@@ -49,4 +49,4 @@
 ---
 
 ### Let’s Connect
-I’m keen to collaborate on projects in software development, cloud computing, or DevOps. Open to opportunities, contributions, or discussions—reach out and let’s create something impactful.
+Open to opportunities, contributions, or discussions—reach out and let’s create something impactful.
