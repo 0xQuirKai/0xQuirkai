@@ -12,7 +12,7 @@
 
 
 - **Ask Me About**: React, Next.js,  Golang 
-- **Portfolio**: [khalil's Portfolio](https://khaliltahra0ui.netlify.app/)  
+- **Portfolio**: [khalil's Portfolio](https://tahraoui.netlify.app/)  
 
 ---
 
