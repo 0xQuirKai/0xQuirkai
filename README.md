@@ -1,7 +1,6 @@
 <h1 align="center">Khalil Tahraoui | 0xQuirkai</h1>
 
-<div align="right"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=32CD32&width=600&lines=Full-Stack+Developer;Cloud+Computing+%26+DevOps;Web3+%26+Blockchain" alt="Typing Animation">
- </div>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/khalil-t-19aa42191/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
