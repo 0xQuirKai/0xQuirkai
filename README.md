@@ -1,52 +1,76 @@
 <h1 align="center">Khalil Tahraoui | 0xQuirkai</h1>
 
-
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/khalil-t-19aa42191/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://tahraoui.netlify.app/"><img src="https://img.shields.io/badge/0xQuirkai-grey" alt="LinkedIn"></a>
-  <a href="mailto:khalil.tahraouil@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/khalil-t-19aa42191/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://tahraoui.netlify.app/">
+    <img src="https://img.shields.io/badge/0xQuirkai-grey" alt="Portfolio">
+  </a>
+  <a href="mailto:khalil.tahraouil@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
 
-
-- **Ask Me About**: React, Next.js,  Golang 
+- **Focus Areas**: MLSecOps • Secure Machine Learning • Cloud-Native AI Systems • Distributed Infrastructure
 - **Portfolio**: [khalil's Portfolio](https://tahraoui.netlify.app/)  
 
 ---
 
 ### Skills & Tools
+
+### Skills & Tools
+
 <p align="left">
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white" alt="Framer Motion">
+
+<!-- ML / AI -->
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
+<img src="https://img.shields.io/badge/HuggingFace-FCC72B?style=flat&logo=huggingface&logoColor=black" alt="HuggingFace">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit Learn">
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat" alt="MLflow">
+
+<!-- Security / Cryptography -->
+<img src="https://img.shields.io/badge/Post--Quantum%20Crypto-6A0DAD?style=flat" alt="Post Quantum Crypto">
+<img src="https://img.shields.io/badge/Zero%20Trust-0B3D91?style=flat" alt="Zero Trust">
+
+<!-- Cloud / DevOps -->
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes">
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white" alt="Terraform">
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white" alt="CI/CD">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx">
+
+<!-- Distributed Systems -->
+<img src="https://img.shields.io/badge/Microservices-FF6B6B?style=flat" alt="Microservices">
+<img src="https://img.shields.io/badge/Distributed%20Systems-4B5563?style=flat" alt="Distributed Systems">
+
+<!-- Backend / Engineering -->
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white" alt="Terraform">
-<img src="https://img.shields.io/badge/OpenStack-ED1944?style=flat&logo=openstack&logoColor=white" alt="OpenStack">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis">
+
+<!-- Data / Foundations -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
 
 </p>
 
 ---
-
-### Featured Projects
-
-- **[GoFlow](https://github.com/0xquirkai/golang-Ci-Cd-system)**  
-  Built a lightweight CI/CD system in Golang, leveraging Docker and Git for automated, zero-downtime deployments.
-
-- **[AlgoVisu](https://github.com/0xquirkai/algoVisu)**  
-  Created an interactive web app with React and Vite to visualize algorithms, optimizing for performance and usability.
-
 
 
 
 ---
 
 ### Let’s Connect
-Open to opportunities, contributions, or discussions—reach out and let’s create something impactful.
+
+Open to research collaborations, cloud-native systems engineering, and cryptography or AI-driven infrastructure projects.  
+Let’s build systems that think, scale, and secure themselves.
