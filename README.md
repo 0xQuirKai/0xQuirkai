@@ -15,11 +15,10 @@
 ---
 
 - **Focus Areas**: MLSecOps • Secure Machine Learning • Cloud-Native AI Systems • Distributed Infrastructure
-- **Portfolio**: [khalil's Portfolio](https://tahraoui.netlify.app/)  
+- **BLOG**: [khalil's Portfolio](https://tahraoui.netlify.app/)  
 
 ---
 
-### Skills & Tools
 
 ### Skills & Tools
 
