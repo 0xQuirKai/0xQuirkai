@@ -15,7 +15,7 @@
 ---
 
 - **Focus Areas**: MLSecOps • Secure Machine Learning • Cloud-Native AI Systems • Distributed Infrastructure
-- **BLOG**: [ Personal Writing & Research](https://tahraoui.netlify.app/)  
+- [ Personal Writing & Research](https://tahraoui.netlify.app/)  
 
 ---
 
